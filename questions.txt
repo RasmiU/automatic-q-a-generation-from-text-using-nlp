@@ -1,0 +1,126 @@
+Q:________ is more than just a program code.
+Options:['abstraction', 'software', 'collection', 'need']
+Ans:software
+
+Q:A ________ is an executable code, which serves
+some computational purpose.
+Options:['program', 'development', 'need', 'program']
+Ans:program
+
+Q:________ is considered to be a collection of executable
+programming code, associated libraries and documentations.
+Options:['computer', 'change', 'software', 'nature']
+Ans:software
+
+Q:________, when made for a
+specific requirement is called software product.we can define software engineering as an engineering branch associated with the
+development of software product using well-defined scientific principles, methods and
+procedures.
+Options:['computer', 'decomposition', 'software', 'principle']
+Ans:software
+
+Q:In
+________ it is usually needed to develop large programs to accommodate multiple functions.
+Options:['problem', 'need', 'efficient', 'industry']
+Ans:industry
+
+Q:A
+________ with developing such large commercial programs is that the complexity and difficulty
+levels of the programs increase exponentially with their sizes.
+Options:['component', 'nature', 'problem', 'development']
+Ans:problem
+
+Q:Software engineering principles use two important
+techniques to reduce problem complexity: abstraction and ________.
+Options:['program', 'nature', 'decomposition', 'change']
+Ans:decomposition
+
+Q:The principle of
+abstraction implies that a ________ can be simplified by omitting irrelevant details.
+Options:['technique', 'change', 'step', 'problem']
+Ans:problem
+
+Q:In other
+words, the main purpose of abstraction is to consider only those aspects of the problem that are
+relevant for certain purpose and ________ other aspects that are not relevant for the given
+purpose.
+Options:['solution', 'suppress', 'industry', 'component']
+Ans:suppress
+
+Q:Once the simpler problem is solved, then the omitted details can be taken into
+________ to solve the next lower level abstraction, and so on.
+Options:['price', 'development', 'consideration', 'scale']
+Ans:consideration
+
+Q:Abstraction is a powerful way
+of reducing the complexity of the ________.
+Options:['house', 'change', 'computer', 'problem']
+Ans:problem
+
+Q:The other approach to tackle problem complexity is 
+________.
+Options:['software', 'decomposition', 'wall', 'house']
+Ans:decomposition
+
+Q:In this ________, a complex problem is divided into several smaller problems
+and then the smaller problems are solved one by one.
+Options:['technique', 'nature', 'technique', 'component']
+Ans:technique
+
+Q:However, in this ________ any random
+decomposition of a problem into smaller parts will not help.
+Options:['environment', 'technique', 'wall', 'complexity']
+Ans:technique
+
+Q:The problem has to be decomposed
+such that each component of the decomposed problem can be solved independently and then the
+________ of the different components can be combined to get the full solution.
+Options:['price', 'size', 'solution', 'collection']
+Ans:solution
+
+Q:A good
+decomposition of a ________ should minimize interactions among various components.
+Options:['problem', 'solution', 'price', 'problem']
+Ans:problem
+
+Q:If the
+different subcomponents are interrelated, then the different components cannot be solved
+separately and the desired reduction in ________ will not be realized.
+Options:['industry', 'wall', 'software', 'complexity']
+Ans:complexity
+
+Q:The need of ________ engineering arises because of higher rate of change in user requirements
+and environment on which the software is working.
+Options:['program', 'decomposition', 'collection', 'software']
+Ans:software
+
+Q:It is easier to build a wall than to a house or building, likewise, as the
+size of software become large engineering has to ________ to give it a scientific process.
+Options:['principle', 'step', 'industry', 'cost']
+Ans:step
+
+Q:If the software process were not based on scientific and engineering
+concepts, it would be easier to re-create new software than to ________ an existing one.
+Options:['industry', 'computer', 'scale', 'nature']
+Ans:scale
+
+Q:As hardware industry has shown its skills and huge manufacturing has lower down
+the ________ of computer and electronic hardware.
+Options:['wall', 'change', 'scale', 'price']
+Ans:price
+
+Q:But the ________ of software remains high if
+proper process is not adapted.
+Options:['collection', 'cost', 'nature', 'software']
+Ans:cost
+
+Q:The always growing and adapting nature of software hugely depends
+upon the ________ in which the user works.
+Options:['nature', 'size', 'environment', 'help']
+Ans:environment
+
+Q:If the nature of ________ is always
+changing, new enhancements need to be done in the existing one.
+Options:['need', 'software', 'step', 'decomposition']
+Ans:software
+
